@@ -1,5 +1,5 @@
 # NSS NSUT Website
-
+**Live-Website**: [nss-nsut-pi.vercel.app](https://nss-nsut-pi.vercel.app)
 This repository contains the code for the official website of the NSS (National Service Scheme) NSUT Cell, hosted on Vercel.
 
 ## Table of Contents
